@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    font-family: helvetica;
+    background-color: #EFF3F6;
+}
+header {
+    background-color: #FA5151;
+    width: 284px;
+    height: 120px;
+    pad
+}
+
+.container {
+    width: 200px;
+    margin: auto auto;
+    height: inherit;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 40px;
+}
+.icon_m {
+    background-image: url("../img/icn_m.png");
+    width: 30px;
+    height: 30px;
+    margin-bottom: -4px;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+.titulo {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: lighter;
+    height: 30px;
+    color: #fff;
+}
